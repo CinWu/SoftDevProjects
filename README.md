@@ -37,6 +37,6 @@ git@github.com:jdai315/Blog.git
   * Jessica Ng, Cindy Wu
   * https://github.com/SingleDreamer/api_project.git
 
- invisiblethluffy
-   Adriel Mendoza, Cindy Wu
-   5/invisiblethluffy/adriel_cindy
+* invisiblethluffy
+ * Adriel Mendoza, Cindy Wu 
+ * 5/invisiblethluffy/adriel_cindy
