@@ -30,15 +30,15 @@ git@github.com:jdai315/Blog.git
   
   * intro-proj1
     * Leon Frajmund, Cindy Wu
-    * 5/intro-proj1/leon_cindy
+    * https://github.com/stuycs-softdev/submissions/5/intro-proj1/leon_cindy
   
 * regexp
   * Cindy Wu, Ziwei Ye
-  * 5/regexp/ziwei_cindy
+  * https://github.com/stuycs-softdev/submissions/5/regexp/ziwei_cindy
     
 * login
   * Adriel Mendoza, Cindy Wu
-  * 5/login/adriel_cindy
+  * https://github.com/stuycs-softdev/submissions/5/login/adriel_cindy
 
 * api
   * Jessica Ng, Cindy Wu
@@ -46,4 +46,4 @@ git@github.com:jdai315/Blog.git
 
 * invisiblethluffy
  * Adriel Mendoza, Cindy Wu 
- * 5/invisiblethluffy/adriel_cindy
+ * https://github.com/stuycs-softdev/submissions/5/invisiblethluffy/adriel_cindy
