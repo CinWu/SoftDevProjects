@@ -1,6 +1,22 @@
 SoftDevProjects
 ===============
-###Fall Semester
+##Spring Semester
+
+###Main Projects
+
+###Mini Projects
+
+ * Canvas
+  * Ling Dong, Cindy Wu
+  * Bouncing circles and color changes
+  * https://github.com/stuycs-softdev/submissions/tree/master/6/canvas/cindy-ling
+
+ * SVG
+  * Cindy Wu
+  * Bouncing circles that follow mouse and respond to mouse click
+  * https://github.com/stuycs-softdev/submissions/tree/master/6/svg/cindy
+
+##Fall Semester
 pd5
 
 ###Final Project
