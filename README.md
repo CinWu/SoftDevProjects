@@ -16,6 +16,21 @@ SoftDevProjects
   * Bouncing circles that follow mouse and respond to mouse click
   * https://github.com/stuycs-softdev/submissions/tree/master/6/svg/cindy
 
+ * data
+  * Cindy Wu, Natan Zamansky
+  * getting data from file
+  * https://github.com/stuycs-softdev/submissions/tree/master/6/data/cindy-natan
+ 
+ * mtns
+  * Cindy Wu
+  * count how many large changes in numbers
+  * https://github.com/stuycs-softdev/submissions/tree/master/6/mtns/cindy
+ 
+ * backbone
+   * Ling Dong, Cindy Wu, Barak Zhou
+   * 
+   * https://github.com/stuycs-softdev/submissions/tree/master/6/backbone1/cindy-barak-ling
+
 ##Fall Semester
 pd5
 
